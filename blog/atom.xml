@@ -12,7 +12,7 @@ layout: feed
     <author>
         <name>Drew Wibbenmeyer</name>
         <email>drako0812@gmail.com</email>
-    <author>
+    </author>
     
     {% for post in site.posts %}
         <entry>
