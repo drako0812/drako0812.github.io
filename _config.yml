@@ -3,4 +3,6 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-mentions
 theme: minima
