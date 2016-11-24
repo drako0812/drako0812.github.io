@@ -1,4 +1,9 @@
-name: Drako0812's Homepage
+name: "Drako0812's Homepage"
+author: Drew Wibbenmeyer
+email: drako0812@gmail.com
+description: > Drako0812's personal website.
+github_username: drako0812
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 gems:
@@ -6,3 +11,6 @@ gems:
   - jekyll-feed
   - jekyll-mentions
 theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
