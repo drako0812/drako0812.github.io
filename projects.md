@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Projects"
+group: projects
 ---
 Drako0812's Github Projects
 ===========================
