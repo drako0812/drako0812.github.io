@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DRAK-0 - Working On Graphics
+title: "DRAK-0 - Working On Graphics"
 date: 2017-11-16
 ---
 
