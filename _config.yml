@@ -10,7 +10,7 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-mentions
-theme: cayman
+theme: minimal
 exclude:
   - Gemfile
   - Gemfile.lock
