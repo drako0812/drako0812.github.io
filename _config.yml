@@ -11,7 +11,7 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-mentions
-theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
 exclude:
   - Gemfile
   - Gemfile.lock
