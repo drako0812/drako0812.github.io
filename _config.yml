@@ -11,7 +11,7 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-mentions
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 exclude:
   - Gemfile
   - Gemfile.lock
