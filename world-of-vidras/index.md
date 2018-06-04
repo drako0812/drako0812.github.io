@@ -3,6 +3,8 @@ layout: page
 title: "The World of Vidras"
 ---
 
-Welcome to the World of Vidras. Please read on.
+**NOTE:** This site is all about the game I am creating so will contain more concrete game-mechanics related content. There will (as soon as is feasible) a site that contains more of the world-building/creative aspects of Vidras.
 
-# Introduction
+# Table of Contents
+
+- [Races of Vidras](./races)
