@@ -9,5 +9,5 @@ title: "The World of Vidras"
 
 # Table of Contents
 
-- [Races of Vidras](./races)
+- [Races of Vidras](./races/)
 
