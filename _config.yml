@@ -15,3 +15,8 @@ remote_theme: jekyll/minima
 exclude:
   - Gemfile
   - Gemfile.lock
+header_pages:
+  - index.html
+  - projects.md
+  - blog/index.html
+  - world-of-vidras/index.md
