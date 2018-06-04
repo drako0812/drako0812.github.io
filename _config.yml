@@ -18,7 +18,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 header_pages:
-  - index.html
   - projects.md
   - blog/index.html
   - world-of-vidras/index.md
+
+show_excerpts: true
