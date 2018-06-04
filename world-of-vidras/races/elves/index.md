@@ -22,10 +22,10 @@ Charisma     | 9     | -1
 
 # Subraces
 
-- [Gold Elf](./gold-elf)
-- [Snow Elf](./snow-elf)
-- [Wood Elf](./wood-elf)
-- [Sand Elf](./sand-elf)
-- [Moon Elf](./moon-elf)
-- [Dark Elf](./dark-elf)
-- [Wild Elf](./wild-elf)
+- [Gold Elves](./gold-elves)
+- [Snow Elves](./snow-elves)
+- [Wood Elves](./wood-elves)
+- [Sand Elves](./sand-elves)
+- [Moon Elves](./moon-elves)
+- [Dark Elves](./dark-elves)
+- [Wild Elves](./wild-elves)
