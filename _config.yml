@@ -5,7 +5,7 @@ email: drako0812@gmail.com
 description: Drako0812's personal website.
 github_username: drako0812
 twitter_username: drako0812
-youtube_username: drako0812
+youtube_username: UCPzSCdLttX_hSe0TjiJ5Sgg
 
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
@@ -23,10 +23,3 @@ header_pages:
   - world-of-vidras/index.md
 
 show_excerpts: true
-
-minima:
-  social_links:
-    twitter: drako0812
-    github: drako0812
-    youtube_channel: UCPzSCdLttX_hSe0TjiJ5Sgg
-    youtube_channel_name: Drako0812
