@@ -13,7 +13,7 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-mentions
-remote_theme: jekyll/minima
+theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -23,3 +23,9 @@ header_pages:
   - world-of-vidras/index.md
 
 show_excerpts: true
+
+minima:
+  social_links:
+    twitter: drako0812
+    github: drako0812
+    
