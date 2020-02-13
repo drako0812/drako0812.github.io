@@ -6,6 +6,7 @@ description: Drako0812's personal website.
 github_username: drako0812
 twitter_username: drako0812
 youtube_username: channel/UCPzSCdLttX_hSe0TjiJ5Sgg
+google_analytics: UA-79659459-5
 
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
