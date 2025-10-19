@@ -1,6 +1,6 @@
 ---
 title: A New Push to Break Into the Industry
-date: 2025-10-19 10:00:00 -0600
+date: 2025-10-19 10:00:00 -0500
 categories: [Game Development, Fantasy Consoles]
 tags: [gamedev,industry,c++,fantasy-consoles]
 ---
